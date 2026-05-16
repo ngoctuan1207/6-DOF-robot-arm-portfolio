@@ -1,7 +1,7 @@
 # 6-DOF Educational Robotic Arm
 
 ## Overview
-The goal of this project is to develop a cost-effective robotic arm system designed as an educational platform for student learning and hands-on training. The robotic arm was developed based on design references from the AR4 robotic arm platform and an educational robotic arm model developed by Huynh Khanh Toan from Ho Chi Minh City University of Technology and Education (HCMUTE).
+The goal of this project is to develop a cost-effective robotic arm system designed as an educational platform for student learning and hands-on training.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c8fe3097-9de5-49e2-b3c1-6bde086d1aca" height="350"/>
   <img src="https://github.com/user-attachments/assets/551e08f7-9203-445f-a131-785177ff184e" height="350"/>
